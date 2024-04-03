@@ -1,0 +1,92 @@
+
+Networks:
+network valnerability 
+tool: 
+hashcat(password cracking tool,)
+brut force
+RAT(remote access trajan)
+Cyper security:
+Data
+Resource
+Secure
+Safeguard
+controls:
+logical control
+physical "
+administrative "
+Port scanning:
+  OSI layer
+protocols(set of rules):
+TCP(65,535 ports)UDP(65,535)(total=1,30,070)
+locked https-port 443(safe)
+http-port 80(unsafe)
+http vs https:
+Block chain security:
+Exploit:
+SQL injection:
+Session highjacking:
+phissing:
+ip address
+DNS:
+Cloud:
+cryptography:
+hashing:
+metasploit:
+backdoor:
+ethical hacking:
+legally hacking with permission
+hacking:
+illegal hacking with out permission
+web site
+web page
+wep application
+web server
+ two carrear
+defensive::blue team (SOC analyist)
+offensive ::red team
+purple team(offence+defence)
+type of hacker:
+white(information of software architecture)
+black(illegal hacker)
+grey(both white and black)
+script kiddies(noobs)
+Hacktivism
+state hacker(goverment sponser hackers)
+terminology
+CIA stands for
+confidentaility
+integrity
+availability
+athentication to verify someone identy
+3 way identification
+1.something you know(knowledge)
+2.something you have(physical)
+3.something you are
+Breah -the lose of control
+event- observable occurrence
+Exploit-particular attack
+Incident-event that actually
+Intrusion-security event
+threat-potential to adversly impact organizational operations
+vulnerability-weakness
+TOE target of evaluation
+IPv4-32b-DEC(0-9)
+IPv6-128b-HEX(0-9,A-F)
+ 127.0.0.1-low
+/24 CIDR
+192.168.1.0-192.168.1.255->256 IPs
+0.0.0.0-255.255.255.255
+system ip = ipconfig
+Attack
+@echo off
+start mspaint
+ping 172.1.42.45 it will send 4 packet in normal windows
+in linux ping 172.1.42.45-c 4 c-count
+for connecting the same type of device use cross over wire 
+for connecting different type of device use straight over wire 
+DHCP-Dynamic Host Configuration Protocol. The Dynamic Host Configuration Protocol is a network management protocol. 
+    It is used on Internet Protocol networks and automatically assigns an IP address to the devices connected to the 
+    network using a client-server architecture.
+DNS- Domain name server
+A Record- IPV4
+AAAA Record- IPV6
